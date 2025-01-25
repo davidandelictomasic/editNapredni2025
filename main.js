@@ -1,5 +1,3 @@
-function zbroj(x,y){
-    return x + y;
-}
+zbroj = (x,y) => x + y;
 
-console.log(zbroj(x,y))
+console.log(zbroj(3,4))
